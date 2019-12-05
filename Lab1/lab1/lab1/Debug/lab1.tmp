@@ -1,0 +1,37 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATxmega128A1U"</DEVICE>
+ <WORKING_DIR>C:\Users\Johnny Li\Desktop\Atmel\Lab1\lab1\lab1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab1\lab1\lab1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc\ATxmega128a1udef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab1\lab1\lab1\Debug\lab1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>lab1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>lab1.map</FILE>
+  <FILE>lab1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <IN_TABLE><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab1\lab1\lab1\main.asm</FILE><LINE>26</LINE></IN_TABLE>
+  <IN_TABLE_END><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab1\lab1\lab1\main.asm</FILE><LINE>29</LINE></IN_TABLE_END>
+  <OUT_TABLE><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab1\lab1\lab1\main.asm</FILE><LINE>35</LINE></OUT_TABLE>
+  <MAIN><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab1\lab1\lab1\main.asm</FILE><LINE>51</LINE></MAIN>
+  <LOOP><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab1\lab1\lab1\main.asm</FILE><LINE>65</LINE></LOOP>
+  <LOOP_END><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab1\lab1\lab1\main.asm</FILE><LINE>129</LINE></LOOP_END>
+  <CONDITION_1><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab1\lab1\lab1\main.asm</FILE><LINE>81</LINE></CONDITION_1>
+  <CONDITION_2><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab1\lab1\lab1\main.asm</FILE><LINE>103</LINE></CONDITION_2>
+  <STORE><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab1\lab1\lab1\main.asm</FILE><LINE>135</LINE></STORE>
+  <CONDITION_2P><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab1\lab1\lab1\main.asm</FILE><LINE>116</LINE></CONDITION_2P>
+  <DONE><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab1\lab1\lab1\main.asm</FILE><LINE>140</LINE></DONE>
+ </LABELS>
+</ASSEMBLER_INFO>

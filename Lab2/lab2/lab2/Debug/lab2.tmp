@@ -1,0 +1,42 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATxmega128A1U"</DEVICE>
+ <WORKING_DIR>C:\Users\Johnny Li\Desktop\Atmel\Lab2\lab2\lab2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab2\lab2\lab2\lab2_4.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc\ATxmega128a1udef.inc</FILE>
+  <FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab2\lab2\lab2\lab2_4.inc</FILE>
+  <FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab2\lab2\lab2\atxmega128a1u_extra.inc</FILE>
+  <FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab2\lab2\lab2\misc.inc</FILE>
+  <FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab2\lab2\lab2\ootb_upad_platform.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab2\lab2\lab2\Debug\lab2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>lab2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>lab2.map</FILE>
+  <FILE>lab2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <ANIMATION><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab2\lab2\lab2\lab2_4.asm</FILE><LINE>36</LINE></ANIMATION>
+  <MAIN><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab2\lab2\lab2\lab2_4.asm</FILE><LINE>56</LINE></MAIN>
+  <IO_INIT><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab2\lab2\lab2\lab2_4.asm</FILE><LINE>226</LINE></IO_INIT>
+  <TC_INIT><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab2\lab2\lab2\lab2_4.asm</FILE><LINE>254</LINE></TC_INIT>
+  <EDIT><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab2\lab2\lab2\lab2_4.asm</FILE><LINE>80</LINE></EDIT>
+  <PLAY><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab2\lab2\lab2\lab2_4.asm</FILE><LINE>151</LINE></PLAY>
+  <Timer><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab2\lab2\lab2\lab2_4.asm</FILE><LINE>109</LINE></Timer>
+  <STORE_FRAME_SWITCH_RELEASE_WAIT_LOOP><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab2\lab2\lab2\lab2_4.asm</FILE><LINE>140</LINE></STORE_FRAME_SWITCH_RELEASE_WAIT_LOOP>
+  <WAIT_LOOP><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab2\lab2\lab2\lab2_4.asm</FILE><LINE>144</LINE></WAIT_LOOP>
+  <PLAY_LOOP><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab2\lab2\lab2\lab2_4.asm</FILE><LINE>159</LINE></PLAY_LOOP>
+  <TimerPLAY><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab2\lab2\lab2\lab2_4.asm</FILE><LINE>195</LINE></TimerPLAY>
+  <DONE><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab2\lab2\lab2\lab2_4.asm</FILE><LINE>216</LINE></DONE>
+ </LABELS>
+</ASSEMBLER_INFO>

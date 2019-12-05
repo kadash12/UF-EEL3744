@@ -1,0 +1,33 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "INCTRL",
+					"strict" : false
+				},
+				{
+					"name" : "OUTCTRL",
+					"strict" : false
+				},
+				{
+					"name" : "RE_L",
+					"strict" : false
+				},
+				{
+					"name" : "CS1_L",
+					"strict" : false
+				},
+				{
+					"name" : "A7_L",
+					"strict" : false
+				},
+				{
+					"name" : "WE_L",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,41 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATxmega128A1U"</DEVICE>
+ <WORKING_DIR>C:\Users\Johnny Li\Desktop\Atmel\Lab5\quiz\quiz\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab5\quiz\quiz\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc\ATxmega128a1udef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab5\quiz\quiz\Debug\quiz.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>quiz.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>quiz.map</FILE>
+  <FILE>quiz.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab5\quiz\quiz\main.asm</FILE><LINE>31</LINE></MAIN>
+  <String><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab5\quiz\quiz\main.asm</FILE><LINE>27</LINE></String>
+  <INIT_USART><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab5\quiz\quiz\main.asm</FILE><LINE>83</LINE></INIT_USART>
+  <LOOP><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab5\quiz\quiz\main.asm</FILE><LINE>45</LINE></LOOP>
+  <IN_CHAR><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab5\quiz\quiz\main.asm</FILE><LINE>164</LINE></IN_CHAR>
+  <true><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab5\quiz\quiz\main.asm</FILE><LINE>64</LINE></true>
+  <lower><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab5\quiz\quiz\main.asm</FILE><LINE>56</LINE></lower>
+  <higher><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab5\quiz\quiz\main.asm</FILE><LINE>60</LINE></higher>
+  <endnew><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab5\quiz\quiz\main.asm</FILE><LINE>68</LINE></endnew>
+  <OUT_CHAR><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab5\quiz\quiz\main.asm</FILE><LINE>123</LINE></OUT_CHAR>
+  <POLL><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab5\quiz\quiz\main.asm</FILE><LINE>125</LINE></POLL>
+  <OUT_STRING><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab5\quiz\quiz\main.asm</FILE><LINE>140</LINE></OUT_STRING>
+  <Read><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab5\quiz\quiz\main.asm</FILE><LINE>142</LINE></Read>
+  <End><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab5\quiz\quiz\main.asm</FILE><LINE>149</LINE></End>
+  <Write><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab5\quiz\quiz\main.asm</FILE><LINE>166</LINE></Write>
+ </LABELS>
+</ASSEMBLER_INFO>

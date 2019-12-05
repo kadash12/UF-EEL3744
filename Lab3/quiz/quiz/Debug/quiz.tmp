@@ -1,0 +1,37 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATxmega128A1U"</DEVICE>
+ <WORKING_DIR>C:\Users\Johnny Li\Desktop\Atmel\Lab3\quiz\quiz\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab3\quiz\quiz\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc\ATxmega128a1udef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab3\quiz\quiz\Debug\quiz.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>quiz.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>quiz.map</FILE>
+  <FILE>quiz.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab3\quiz\quiz\main.asm</FILE><LINE>34</LINE></MAIN>
+  <Delay><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab3\quiz\quiz\main.asm</FILE><LINE>154</LINE></Delay>
+  <Interrtupt><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab3\quiz\quiz\main.asm</FILE><LINE>116</LINE></Interrtupt>
+  <IO_INIT><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab3\quiz\quiz\main.asm</FILE><LINE>61</LINE></IO_INIT>
+  <period10><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab3\quiz\quiz\main.asm</FILE><LINE>176</LINE></period10>
+  <INIT_INTERRUPT><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab3\quiz\quiz\main.asm</FILE><LINE>86</LINE></INIT_INTERRUPT>
+  <Done><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab3\quiz\quiz\main.asm</FILE><LINE>50</LINE></Done>
+  <Wait><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab3\quiz\quiz\main.asm</FILE><LINE>171</LINE></Wait>
+  <LED><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab3\quiz\quiz\main.asm</FILE><LINE>130</LINE></LED>
+  <pause><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab3\quiz\quiz\main.asm</FILE><LINE>191</LINE></pause>
+  <Period2><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab3\quiz\quiz\main.asm</FILE><LINE>184</LINE></Period2>
+ </LABELS>
+</ASSEMBLER_INFO>

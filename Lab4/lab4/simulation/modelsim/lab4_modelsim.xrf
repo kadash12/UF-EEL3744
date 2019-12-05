@@ -1,0 +1,13 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/Johnny Li/Desktop/Atmel/Lab4/lab4/lab4_2.bdf
+source_file = 1, C:/Users/Johnny Li/Desktop/Atmel/Lab4/lab4/db/lab4.cbx.xml
+design_name = hard_block
+design_name = lab4_2
+instance = comp, \~QUARTUS_CREATED_GND~I\, ~QUARTUS_CREATED_GND~I, lab4_2, 1
+instance = comp, \INCTRL~output\, INCTRL~output, lab4_2, 1
+instance = comp, \OUTCTRL~output\, OUTCTRL~output, lab4_2, 1
+instance = comp, \RE_L~input\, RE_L~input, lab4_2, 1
+instance = comp, \CS1_L~input\, CS1_L~input, lab4_2, 1
+instance = comp, \A7_L~input\, A7_L~input, lab4_2, 1
+instance = comp, \WE_L~input\, WE_L~input, lab4_2, 1
+instance = comp, \~QUARTUS_CREATED_UNVM~\, ~QUARTUS_CREATED_UNVM~, lab4_2, 1

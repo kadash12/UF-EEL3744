@@ -1,0 +1,39 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATxmega128A1U"</DEVICE>
+ <WORKING_DIR>C:\Users\Johnny Li\Desktop\Atmel\HW2\HW2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Johnny Li\Desktop\Atmel\HW2\HW2\hw2.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc\ATxmega128a1udef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Johnny Li\Desktop\Atmel\HW2\HW2\Debug\HW2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>HW2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>HW2.map</FILE>
+  <FILE>HW2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\Johnny Li\Desktop\Atmel\HW2\HW2\hw2.asm</FILE><LINE>32</LINE></MAIN>
+  <IO_INIT><FILE>C:\Users\Johnny Li\Desktop\Atmel\HW2\HW2\hw2.asm</FILE><LINE>136</LINE></IO_INIT>
+  <TC_INIT><FILE>C:\Users\Johnny Li\Desktop\Atmel\HW2\HW2\hw2.asm</FILE><LINE>165</LINE></TC_INIT>
+  <Default><FILE>C:\Users\Johnny Li\Desktop\Atmel\HW2\HW2\hw2.asm</FILE><LINE>47</LINE></Default>
+  <Timer><FILE>C:\Users\Johnny Li\Desktop\Atmel\HW2\HW2\hw2.asm</FILE><LINE>66</LINE></Timer>
+  <TimerRUN><FILE>C:\Users\Johnny Li\Desktop\Atmel\HW2\HW2\hw2.asm</FILE><LINE>74</LINE></TimerRUN>
+  <BLUE_PWM><FILE>C:\Users\Johnny Li\Desktop\Atmel\HW2\HW2\hw2.asm</FILE><LINE>109</LINE></BLUE_PWM>
+  <RED_PWM><FILE>C:\Users\Johnny Li\Desktop\Atmel\HW2\HW2\hw2.asm</FILE><LINE>101</LINE></RED_PWM>
+  <GREEN_PWM><FILE>C:\Users\Johnny Li\Desktop\Atmel\HW2\HW2\hw2.asm</FILE><LINE>117</LINE></GREEN_PWM>
+  <RED><FILE>C:\Users\Johnny Li\Desktop\Atmel\HW2\HW2\hw2.asm</FILE><LINE>238</LINE></RED>
+  <BLUE><FILE>C:\Users\Johnny Li\Desktop\Atmel\HW2\HW2\hw2.asm</FILE><LINE>183</LINE></BLUE>
+  <GREEN><FILE>C:\Users\Johnny Li\Desktop\Atmel\HW2\HW2\hw2.asm</FILE><LINE>293</LINE></GREEN>
+  <DONE><FILE>C:\Users\Johnny Li\Desktop\Atmel\HW2\HW2\hw2.asm</FILE><LINE>126</LINE></DONE>
+ </LABELS>
+</ASSEMBLER_INFO>

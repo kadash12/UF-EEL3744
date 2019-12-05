@@ -1,0 +1,37 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATxmega128A1U"</DEVICE>
+ <WORKING_DIR>C:\Users\Johnny Li\Desktop\Atmel\Lab1\quiz\quiz\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab1\quiz\quiz\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc\ATxmega128a1udef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab1\quiz\quiz\Debug\quiz.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>quiz.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>quiz.map</FILE>
+  <FILE>quiz.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <IN_TABLE><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab1\quiz\quiz\main.asm</FILE><LINE>18</LINE></IN_TABLE>
+  <IN_TABLE_END><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab1\quiz\quiz\main.asm</FILE><LINE>20</LINE></IN_TABLE_END>
+  <OUT_TABLE><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab1\quiz\quiz\main.asm</FILE><LINE>25</LINE></OUT_TABLE>
+  <MAIN><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab1\quiz\quiz\main.asm</FILE><LINE>32</LINE></MAIN>
+  <LOOP><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab1\quiz\quiz\main.asm</FILE><LINE>44</LINE></LOOP>
+  <LOOP_END1><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab1\quiz\quiz\main.asm</FILE><LINE>77</LINE></LOOP_END1>
+  <CONDITION_1><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab1\quiz\quiz\main.asm</FILE><LINE>62</LINE></CONDITION_1>
+  <CONDITION_2><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab1\quiz\quiz\main.asm</FILE><LINE>66</LINE></CONDITION_2>
+  <STORE1><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab1\quiz\quiz\main.asm</FILE><LINE>81</LINE></STORE1>
+  <CONDITION_2P><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab1\quiz\quiz\main.asm</FILE><LINE>72</LINE></CONDITION_2P>
+  <DONE><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab1\quiz\quiz\main.asm</FILE><LINE>85</LINE></DONE>
+ </LABELS>
+</ASSEMBLER_INFO>

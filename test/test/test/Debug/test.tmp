@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATxmega128A1U"</DEVICE>
+ <WORKING_DIR>C:\Users\Johnny Li\Desktop\Atmel\test\test\test\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Johnny Li\Desktop\Atmel\test\test\test\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc\ATxmega128a1udef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Johnny Li\Desktop\Atmel\test\test\test\Debug\test.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>test.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>test.map</FILE>
+  <FILE>test.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <IN_TABLE><FILE>C:\Users\Johnny Li\Desktop\Atmel\test\test\test\main.asm</FILE><LINE>17</LINE></IN_TABLE>
+  <MAIN><FILE>C:\Users\Johnny Li\Desktop\Atmel\test\test\test\main.asm</FILE><LINE>24</LINE></MAIN>
+  <LOOP><FILE>C:\Users\Johnny Li\Desktop\Atmel\test\test\test\main.asm</FILE><LINE>33</LINE></LOOP>
+  <DONE><FILE>C:\Users\Johnny Li\Desktop\Atmel\test\test\test\main.asm</FILE><LINE>48</LINE></DONE>
+  <END><FILE>C:\Users\Johnny Li\Desktop\Atmel\test\test\test\main.asm</FILE><LINE>44</LINE></END>
+ </LABELS>
+</ASSEMBLER_INFO>

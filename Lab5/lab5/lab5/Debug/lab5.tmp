@@ -1,0 +1,45 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATxmega128A1U"</DEVICE>
+ <WORKING_DIR>C:\Users\Johnny Li\Desktop\Atmel\Lab5\lab5\lab5\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab5\lab5\lab5\lab5_7.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc\ATxmega128a1udef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab5\lab5\lab5\Debug\lab5.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>lab5.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>lab5.map</FILE>
+  <FILE>lab5.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <ISR><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab5\lab5\lab5\lab5_7.asm</FILE><LINE>247</LINE></ISR>
+  <MAIN><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab5\lab5\lab5\lab5_7.asm</FILE><LINE>35</LINE></MAIN>
+  <String><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab5\lab5\lab5\lab5_7.asm</FILE><LINE>31</LINE></String>
+  <INIT_USART><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab5\lab5\lab5\lab5_7.asm</FILE><LINE>87</LINE></INIT_USART>
+  <LOOP><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab5\lab5\lab5\lab5_7.asm</FILE><LINE>62</LINE></LOOP>
+  <OUT_CHAR><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab5\lab5\lab5\lab5_7.asm</FILE><LINE>135</LINE></OUT_CHAR>
+  <POLL><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab5\lab5\lab5\lab5_7.asm</FILE><LINE>137</LINE></POLL>
+  <OUT_STRING><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab5\lab5\lab5\lab5_7.asm</FILE><LINE>152</LINE></OUT_STRING>
+  <Read><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab5\lab5\lab5\lab5_7.asm</FILE><LINE>154</LINE></Read>
+  <End><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab5\lab5\lab5\lab5_7.asm</FILE><LINE>161</LINE></End>
+  <IN_CHAR><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab5\lab5\lab5\lab5_7.asm</FILE><LINE>176</LINE></IN_CHAR>
+  <Write><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab5\lab5\lab5\lab5_7.asm</FILE><LINE>178</LINE></Write>
+  <IN_STRING><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab5\lab5\lab5\lab5_7.asm</FILE><LINE>193</LINE></IN_STRING>
+  <Check><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab5\lab5\lab5\lab5_7.asm</FILE><LINE>202</LINE></Check>
+  <Finish><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab5\lab5\lab5\lab5_7.asm</FILE><LINE>215</LINE></Finish>
+  <Remove><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab5\lab5\lab5\lab5_7.asm</FILE><LINE>211</LINE></Remove>
+  <NEW_OUT_STRING><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab5\lab5\lab5\lab5_7.asm</FILE><LINE>225</LINE></NEW_OUT_STRING>
+  <Reading><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab5\lab5\lab5\lab5_7.asm</FILE><LINE>230</LINE></Reading>
+  <Ending><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab5\lab5\lab5\lab5_7.asm</FILE><LINE>237</LINE></Ending>
+ </LABELS>
+</ASSEMBLER_INFO>

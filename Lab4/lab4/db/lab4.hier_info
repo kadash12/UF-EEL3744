@@ -1,0 +1,11 @@
+|lab4_2
+INCTRL <= inst.DB_MAX_OUTPUT_PORT_TYPE
+CS1_L => inst.IN0
+CS1_L => inst4.IN0
+RE_L => inst.IN1
+A7_L => inst.IN2
+A7_L => inst4.IN2
+OUTCTRL <= inst4.DB_MAX_OUTPUT_PORT_TYPE
+WE_L => inst4.IN1
+
+

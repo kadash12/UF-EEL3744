@@ -1,0 +1,15 @@
+Quartus Prime Archive log --	C:/Users/Johnny Li/Desktop/Atmel/Lab4/lab4/lab4.qarlog
+
+Archive:	C:/Users/Johnny Li/Desktop/Atmel/Lab4/lab4/lab4.qar
+Date:		Fri Oct 11 02:33:25 2019
+Quartus Prime		17.1.0 Build 590 10/25/2017 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/Johnny Li/Desktop/Atmel/Lab4/lab4/lab4.qpf
+C:/Users/Johnny Li/Desktop/Atmel/Lab4/lab4/lab4.qsf
+C:/Users/Johnny Li/Desktop/Atmel/Lab4/lab4/lab4_2.bdf
+c:/intelfpga_lite/17.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 4 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

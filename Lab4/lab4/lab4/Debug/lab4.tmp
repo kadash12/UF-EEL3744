@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATxmega128A1U"</DEVICE>
+ <WORKING_DIR>C:\Users\Johnny Li\Desktop\Atmel\Lab4\lab4\lab4\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab4\lab4\lab4\lab4_3.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc\ATxmega128a1udef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab4\lab4\lab4\Debug\lab4.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>lab4.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>lab4.map</FILE>
+  <FILE>lab4.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <DATA><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab4\lab4\lab4\lab4_3.asm</FILE><LINE>19</LINE></DATA>
+  <DATA_END><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab4\lab4\lab4\lab4_3.asm</FILE><LINE>66</LINE></DATA_END>
+  <MAIN><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab4\lab4\lab4\lab4_3.asm</FILE><LINE>74</LINE></MAIN>
+  <LOOP><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab4\lab4\lab4\lab4_3.asm</FILE><LINE>150</LINE></LOOP>
+  <READ><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab4\lab4\lab4\lab4_3.asm</FILE><LINE>166</LINE></READ>
+  <FLAG1><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab4\lab4\lab4\lab4_3.asm</FILE><LINE>182</LINE></FLAG1>
+  <DONE><FILE>C:\Users\Johnny Li\Desktop\Atmel\Lab4\lab4\lab4\lab4_3.asm</FILE><LINE>195</LINE></DONE>
+ </LABELS>
+</ASSEMBLER_INFO>
